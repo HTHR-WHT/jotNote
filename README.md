@@ -1,1 +1,1 @@
-# jotNote
+# jot note

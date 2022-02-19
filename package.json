@@ -1,0 +1,19 @@
+{
+  "name": "jotnote",
+  "version": "1.0.0",
+  "description": "a simple react & express web app, to jot down your thoughts and clear your head.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTHR-WHT/jotNote.git"
+  },
+  "author": "HTHR-WHT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HTHR-WHT/jotNote/issues"
+  },
+  "homepage": "https://github.com/HTHR-WHT/jotNote#readme"
+}
